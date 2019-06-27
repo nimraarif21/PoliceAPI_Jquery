@@ -1,0 +1,55 @@
+
+#myList {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+.mycontainer{
+  background-image: url("/background.jpg");
+}
+
+ #myList th {
+  
+  padding: 8px;
+  border-radius: 25px;
+  color: white;
+  font-size: 3em;
+  text-align: center;
+}
+
+#myList tr{
+
+  border: 2px solid white;
+}
+.parent-row {
+  padding: 8px;
+  border-radius: 25px;
+  color: white;
+  text-align: center;
+}
+#myList2 tr{
+  padding: 8px;
+  border-radius: 25px;
+  color: white;
+  border: 2px solid white;
+  text-align: left;
+
+}
+.parent-row:hover {background-color:gray;}
+
+
+h3{
+  color: white;
+  align-self: center
+}
+
+p{
+
+  color: white;
+  align-self: center;
+
+}
+h2{
+  color:white;
+  font-weight: bold;
+}
